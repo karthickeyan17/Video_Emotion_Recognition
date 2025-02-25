@@ -74,6 +74,3 @@ model.load_weights("cnn_bilstm_weights.h5")
 ## Demo
 Here is an image of friends testing the Streamlit application:
 ![Demo](https://github.com/karthickeyan17/Video_Emotion_Recognition/blob/main/Picture1.jpg)
-
-Let me know if you need any further modifications! 🚀
-
